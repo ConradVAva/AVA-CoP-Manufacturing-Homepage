@@ -1,0 +1,47 @@
+<svg width="1200" height="520" viewBox="0 0 1200 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="surface" x1="90" y1="40" x2="1110" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF5EF"/>
+      <stop offset="1" stop-color="#F4F1FB"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="520" rx="28" fill="url(#surface)"/>
+  <rect x="72" y="72" width="254" height="164" rx="24" fill="#F15A22"/>
+  <rect x="350" y="72" width="254" height="164" rx="24" fill="#6F2C91"/>
+  <rect x="628" y="72" width="254" height="164" rx="24" fill="#0F7C90"/>
+  <rect x="906" y="72" width="222" height="164" rx="24" fill="#1F2937"/>
+  <text x="102" y="118" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Process view</text>
+  <text x="102" y="156" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18">Design to retire</text>
+  <text x="102" y="184" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18">Forecast to plan</text>
+  <text x="102" y="212" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18">Order to cash</text>
+  <text x="380" y="118" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Capability view</text>
+  <text x="380" y="156" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18">MDM • PIM • ECM • PLM</text>
+  <text x="380" y="184" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18">MRP • APS • DDMRP</text>
+  <text x="380" y="212" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18">MES • Compliance • ESG</text>
+  <text x="658" y="118" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Industry view</text>
+  <text x="658" y="156" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18">Industrial equipment</text>
+  <text x="658" y="184" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18">Consumer goods</text>
+  <text x="658" y="212" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18">Life science • Chemicals</text>
+  <text x="936" y="118" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Delivery view</text>
+  <text x="936" y="156" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18">Presales</text>
+  <text x="936" y="184" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18">Discovery</text>
+  <text x="936" y="212" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="18">Analysis • Delivery</text>
+  <rect x="72" y="280" width="1056" height="164" rx="28" fill="white"/>
+  <path d="M140 388H1060" stroke="#D1D5DB" stroke-width="10" stroke-linecap="round"/>
+  <rect x="154" y="328" width="96" height="48" rx="10" fill="#F15A22"/>
+  <rect x="258" y="306" width="72" height="70" rx="10" fill="#FDBA74"/>
+  <rect x="344" y="286" width="92" height="90" rx="10" fill="#FED7AA"/>
+  <rect x="454" y="320" width="84" height="56" rx="10" fill="#FB923C"/>
+  <rect x="560" y="296" width="120" height="80" rx="10" fill="#6F2C91"/>
+  <rect x="704" y="274" width="96" height="102" rx="10" fill="#C4B5FD"/>
+  <rect x="818" y="320" width="84" height="56" rx="10" fill="#0F7C90"/>
+  <rect x="920" y="292" width="122" height="84" rx="10" fill="#99F6E4"/>
+  <circle cx="180" cy="280" r="16" fill="#F15A22"/>
+  <circle cx="382" cy="252" r="16" fill="#6F2C91"/>
+  <circle cx="620" cy="258" r="16" fill="#0F7C90"/>
+  <circle cx="956" cy="258" r="16" fill="#111827"/>
+  <path d="M180 280C240 246 300 236 382 252" stroke="#F15A22" stroke-width="6" stroke-linecap="round"/>
+  <path d="M382 252C450 228 530 230 620 258" stroke="#6F2C91" stroke-width="6" stroke-linecap="round"/>
+  <path d="M620 258C718 226 820 226 956 258" stroke="#0F7C90" stroke-width="6" stroke-linecap="round"/>
+  <text x="102" y="474" fill="#374151" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="600">Use the CoP homepage to move across business process, capability, industry, and delivery perspectives.</text>
+</svg>
