@@ -38,26 +38,22 @@ Use this page as a starting point when you want to:
 
 These processes help CoP members frame manufacturing transformation work across the full operational lifecycle:
 
-| Process | Focus |
-| --- | --- |
-| **Design to retire** | Manage the lifecycle of products and assets from engineering through retirement. |
-| **Acquire to dispose** | Govern sourcing, procurement, usage, and retirement of equipment, tools, and materials. |
-| **Forecast to plan** | Translate demand signals into planning assumptions for supply, capacity, and operations. |
-| **Plan to produce** | Convert plans into executable production schedules, material requirements, and shop-floor activity. |
-| **Order to cash** | Connect customer demand, fulfillment, invoicing, and revenue realization. |
-| **Inventory to deliver** | Balance stock, warehousing, logistics, and service levels across the supply network. |
-| **Service to deliver** | Support installed products and customer outcomes with service execution and feedback loops. |
+- **Design to retire**: Manage the lifecycle of products and assets from engineering through retirement.
+- **Acquire to dispose**: Govern sourcing, procurement, usage, and retirement of equipment, tools, and materials.
+- **Forecast to plan**: Translate demand signals into planning assumptions for supply, capacity, and operations.
+- **Plan to produce**: Convert plans into executable production schedules, material requirements, and shop-floor activity.
+- **Order to cash**: Connect customer demand, fulfillment, invoicing, and revenue realization.
+- **Inventory to deliver**: Balance stock, warehousing, logistics, and service levels across the supply network.
+- **Service to deliver**: Support installed products and customer outcomes with service execution and feedback loops.
 
 ## B. Production principles
 
 These production models shape planning, manufacturing execution, and customer fulfillment:
 
-| Principle | Typical use |
-| --- | --- |
-| **Make to Stock** | Produce against forecast for high-volume, repeatable demand patterns. |
-| **Make to Order** | Start production after order confirmation to limit finished-goods inventory. |
-| **Configure to Order** | Assemble configurable variants using predefined options and modular structures. |
-| **Engineer to Order** | Design and manufacture highly tailored products based on unique customer requirements. |
+- **Make to Stock**: Produce against forecast for high-volume, repeatable demand patterns.
+- **Make to Order**: Start production after order confirmation to limit finished-goods inventory.
+- **Configure to Order**: Assemble configurable variants using predefined options and modular structures.
+- **Engineer to Order**: Design and manufacture highly tailored products based on unique customer requirements.
 
 ## C. Capabilities
 
@@ -142,12 +138,10 @@ Key Independent Software Vendor (ISV) solution areas commonly used in manufactur
 
 This perspective helps members align manufacturing opportunities with delivery stages:
 
-| Lifecycle stage | Typical CoP contribution |
-| --- | --- |
-| **Presales** | Shape client conversations, qualification, and value propositions. |
-| **Envision / Discovery** | Define business goals, operating model priorities, and target-solution scope. |
-| **Analysis** | Detail requirements, process design, capability gaps, and architecture decisions. |
-| **Delivery** | Implement, validate, deploy, and continuously improve manufacturing solutions. |
+- **Presales**: Shape client conversations, qualification, and value propositions.
+- **Envision / Discovery**: Define business goals, operating model priorities, and target-solution scope.
+- **Analysis**: Detail requirements, process design, capability gaps, and architecture decisions.
+- **Delivery**: Implement, validate, deploy, and continuously improve manufacturing solutions.
 
 ## Related repository resources
 
