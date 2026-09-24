@@ -10,7 +10,7 @@ This homepage is designed to help teams quickly find related information for str
 
 ## Quick navigation
 
-- [End-2-End Processes for Manufacturers](#a-end-2-end-processes-for-manufacturers)
+- [End-to-end Processes for Manufacturers](#a-end-to-end-processes-for-manufacturers)
 - [Production principles](#b-production-principles)
 - [Capabilities](#c-capabilities)
 - [Industries](#d-industries)
@@ -34,7 +34,7 @@ Use this page as a starting point when you want to:
 
 ---
 
-## A. End-2-End Processes for Manufacturers
+## A. End-to-end Processes for Manufacturers
 
 These processes help CoP members frame manufacturing transformation work across the full operational lifecycle:
 
