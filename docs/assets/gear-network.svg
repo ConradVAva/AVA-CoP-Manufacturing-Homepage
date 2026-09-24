@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 720" role="img" aria-labelledby="title desc">
+  <title id="title">Connected manufacturing gears</title>
+  <desc id="desc">Interlocking gears with network nodes suggesting coordination across manufacturing systems.</desc>
+  <rect width="960" height="720" rx="32" fill="#f8f3ff"/>
+  <g fill="none" stroke="#5b2db5" stroke-width="16" stroke-linecap="round">
+    <circle cx="310" cy="350" r="120"/>
+    <circle cx="560" cy="300" r="92"/>
+    <circle cx="646" cy="484" r="72"/>
+  </g>
+  <g stroke="#ff6a39" stroke-width="14" stroke-linecap="round">
+    <path d="M310 188v44M310 468v44M148 350h44M428 350h44M198 238l34 34M388 428l34 34M388 238l34 34M198 462l34-34"/>
+    <path d="M560 192v34M560 374v34M468 300h34M650 300h34"/>
+    <path d="M646 386v28M646 554v28M562 484h28M730 484h28"/>
+  </g>
+  <g fill="#41207f">
+    <circle cx="310" cy="350" r="32"/>
+    <circle cx="560" cy="300" r="22"/>
+    <circle cx="646" cy="484" r="18"/>
+  </g>
+  <g fill="none" stroke="#8eb6ff" stroke-width="10" stroke-dasharray="14 16">
+    <path d="M420 328c52-12 82-22 124-22"/>
+    <path d="M594 374c18 34 24 50 34 88"/>
+    <path d="M234 442c108 48 224 70 372 48"/>
+  </g>
+  <g fill="#fff" stroke="#ced6ee" stroke-width="4">
+    <rect x="116" y="108" width="188" height="66" rx="18"/>
+    <rect x="642" y="104" width="196" height="66" rx="18"/>
+    <rect x="714" y="590" width="160" height="66" rx="18"/>
+  </g>
+  <g fill="#41207f" font-family="Segoe UI, Arial, sans-serif" font-size="24">
+    <text x="150" y="150">Plan</text>
+    <text x="676" y="146">Execute</text>
+    <text x="748" y="632">Improve</text>
+  </g>
+</svg>
